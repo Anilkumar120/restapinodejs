@@ -1,0 +1,50 @@
+[
+    {
+        "name": "iPhone 12",
+        "price": 799,
+        "featured": true,
+        "rating": 4.8,
+        "createdAt": "2024-08-10T08:00:00Z",
+        "company": "apple"
+    },
+    {
+        "name": "Samsung Galaxy S21",
+        "price": 500,
+        "featured": false,
+        "rating": 4.7,
+        "createdAt": "2024-08-10T08:00:00Z",
+        "company": "samsung"
+    },
+    {
+        "name": "Watch",
+        "price": 799,
+        "featured": true,
+        "rating": 4.8,
+        "createdAt": "2024-08-10T08:00:00Z",
+        "company": "apple"
+    },
+    {
+        "name": "Samsung Watch",
+        "price": 500,
+        "featured": false,
+        "rating": 4.7,
+        "createdAt": "2024-08-10T08:00:00Z",
+        "company": "samsung"
+    },
+    {
+        "name": "Laptop",
+        "price": 799,
+        "featured": true,
+        "rating": 4.8,
+        "createdAt": "2024-08-10T08:00:00Z",
+        "company": "dell"
+    },
+    {
+        "name": "Redmi 9 power",
+        "price": 500,
+        "featured": false,
+        "rating": 4.7,
+        "createdAt": "2024-08-10T08:00:00Z",
+        "company": "mi"
+    }
+]
